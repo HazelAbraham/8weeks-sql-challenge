@@ -29,4 +29,4 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 ## Solution
 
-The solution to all questions for this case study can be found in solution.sql file.
+The solution to all questions for this case study can be found in  Danny diner final.sql file.
